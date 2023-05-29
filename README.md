@@ -5,6 +5,11 @@
 </p>
 
 ## Installation
+- Install git and bc
+- 
+```bash
+pkg i -y git bc
+```
 
 - Download or clone the latest release.
 
