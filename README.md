@@ -6,7 +6,7 @@
 
 ## Installation
 - Install git and bc
-- 
+
 ```bash
 pkg i -y git bc
 ```
